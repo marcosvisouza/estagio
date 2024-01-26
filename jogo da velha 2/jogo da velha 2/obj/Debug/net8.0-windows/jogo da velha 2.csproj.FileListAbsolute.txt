@@ -1,0 +1,16 @@
+C:\Users\Coopa\source\repos\jogo da velha 2\jogo da velha 2\bin\Debug\net8.0-windows\jogo da velha 2.exe
+C:\Users\Coopa\source\repos\jogo da velha 2\jogo da velha 2\bin\Debug\net8.0-windows\jogo da velha 2.deps.json
+C:\Users\Coopa\source\repos\jogo da velha 2\jogo da velha 2\bin\Debug\net8.0-windows\jogo da velha 2.runtimeconfig.json
+C:\Users\Coopa\source\repos\jogo da velha 2\jogo da velha 2\bin\Debug\net8.0-windows\jogo da velha 2.dll
+C:\Users\Coopa\source\repos\jogo da velha 2\jogo da velha 2\bin\Debug\net8.0-windows\jogo da velha 2.pdb
+C:\Users\Coopa\source\repos\jogo da velha 2\jogo da velha 2\obj\Debug\net8.0-windows\jogo_da_velha_2.Form1.resources
+C:\Users\Coopa\source\repos\jogo da velha 2\jogo da velha 2\obj\Debug\net8.0-windows\jogo da velha 2.csproj.GenerateResource.cache
+C:\Users\Coopa\source\repos\jogo da velha 2\jogo da velha 2\obj\Debug\net8.0-windows\jogo da velha 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Coopa\source\repos\jogo da velha 2\jogo da velha 2\obj\Debug\net8.0-windows\jogo da velha 2.AssemblyInfoInputs.cache
+C:\Users\Coopa\source\repos\jogo da velha 2\jogo da velha 2\obj\Debug\net8.0-windows\jogo da velha 2.AssemblyInfo.cs
+C:\Users\Coopa\source\repos\jogo da velha 2\jogo da velha 2\obj\Debug\net8.0-windows\jogo da velha 2.csproj.CoreCompileInputs.cache
+C:\Users\Coopa\source\repos\jogo da velha 2\jogo da velha 2\obj\Debug\net8.0-windows\jogo da velha 2.dll
+C:\Users\Coopa\source\repos\jogo da velha 2\jogo da velha 2\obj\Debug\net8.0-windows\refint\jogo da velha 2.dll
+C:\Users\Coopa\source\repos\jogo da velha 2\jogo da velha 2\obj\Debug\net8.0-windows\jogo da velha 2.pdb
+C:\Users\Coopa\source\repos\jogo da velha 2\jogo da velha 2\obj\Debug\net8.0-windows\jogo da velha 2.genruntimeconfig.cache
+C:\Users\Coopa\source\repos\jogo da velha 2\jogo da velha 2\obj\Debug\net8.0-windows\ref\jogo da velha 2.dll
